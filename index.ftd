@@ -1,40 +1,313 @@
--- ds.page: Welcome to doc-site
+-- import: fastn-community.github.io/doc-site as ds
+
+;; -- ftd.document:
+;; og-title: My Page Title
 
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: black
+color: white
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+Hi techies!!
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 1
+region: h2
+background.solid: black
+color: white
+padding-bottom.px:30
 
--- ds.h3: 🚀 Fast Track 
+Welcome to my Fastn Portfolio
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+-- ftd.image: logo2.svg
+height.fixed.px: 250
+align-self: center
+alt: Image can't be displayed
+color: white
+padding.px: 1
+border-radius.px : 100
+margin-left.px: 0
 
--- ds.h3: 🌟 Whats next?
-
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- import: fastn.com/assets
 
 
--- ds.h3: 🎯 Used by?
 
-Our all documentation sites uses this `doc-site` theme.
+-- ftd.row:
+spacing.fixed.px: 55
+margin-left.px: 65
+margin-right.px: 65
+color: black
 
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
+-- ftd.text: Front-End Developer
+region: h3
+padding.px: 25
 
--- ds.h2: Learn fastn and become a pro?
+-- ftd.text: Back-End Developer
+padding.px: 25
+region: h3
 
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- ftd.text: Competitive Programmer
+padding.px: 25
+region: h3
 
--- end: ds.page
+-- ftd.text: BlockChain Developer
+padding.px: 25
+region: h3
+
+-- ftd.text: Technical Content Writer
+padding.px: 25
+region: h3
+
+-- end: ftd.row
+
+
+-- ftd.text:
+padding.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+I am a first-year student at Shri Ramdeobaba College of Engineering and Management, Nagpur, pursuing a Bachelor's of Technology in Computer Science Engineering (Data Science).
+My interests lie in algorithmic problem-solving, and I possess a strong understanding of Data Structures and Algorithms.
+Apart from programming, I am passionate about web development and blockchain technology. I have developed several project websites using basic HTML-CSS and JavaScript and am currently working on improving my skills in React.js and Solidity
+
+
+-- ftd.text:
+padding.px: 10
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+
+I'm a multi-talented individual with a passion for innovation and coding. As a Competitive Programmer, I thrive on challenging coding problems and finding elegant solutions. As a Blockchain Developer, I explore the limitless possibilities of decentralized technology. Behind the scenes, I work diligently as a Backend Developer to ensure seamless functionality.
+
+Beyond coding, I delve into the world of Technical Content Writing, sharing knowledge and insights with fellow enthusiasts. As a Frontend Developer, I transform ideas into visually stunning and user-friendly interfaces.
+
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: white
+color: black
+
+Experience
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- WordPress Developer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+June 2023 - Present.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Wrote blogs on various hackathons happening around.
+
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Technical Blog Writer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+June 2023 - Present.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Wrote blogs over topics such as Web Development, Blockchain Development and Competitive Programming.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Have completed a blog series on the topic "Beginner's Guide To Web Development".
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Currenty, working on a series on the topic "Beginner's Guide To Blockchain Development".
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Developer at The CodeBreakers
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+December 2022 - Present.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Created a Front-end Website as first project.
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Currently working on a Full-Stack Website as second project.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Have managed 2 events with more than 100 students each from first year itself.
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Competitive Programmer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+December 2022 - Present
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+4⭐@C-Language(HackerRank)
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+3⭐@Python(HackerRank)
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+2⭐@C++(HackerRank)
+
+-- ftd.text:
+padding-bottom.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+2⭐@CodeChef (Highest Rating 1407)
+
+
+
+
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: white
+color: black
+
+Connect With Me
+
+-- ftd.text: 
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+background.solid: black
+color: white
+
+Linkedin (https://linkedin.com/in/tushar-pamnani)
+
+-- ftd.text: 
+text-align: center
+width.fixed.percent: 100
+padding.px: 15
+background.solid: black
+color: white
+
+Github (https://github.com/tusharpamnani)
