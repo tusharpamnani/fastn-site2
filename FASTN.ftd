@@ -1,18 +1,5 @@
 -- import: fastn
 
--- fastn.package: tusharpamnani.github.io/fastn-site2
-favicon: /-/tusharpamnani.github.io/fastn-site2/favicon.ico
+-- fastn.package: portfolio
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
-
--- fastn.auto-import: tusharpamnani.github.io/fastn-site2/FASTN/ds
--- fastn.auto-import: tusharpamnani.github.io/fastn-site2/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.dependency: fastn-community.github.io/doc-site
